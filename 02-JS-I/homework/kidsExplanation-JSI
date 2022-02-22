@@ -1,0 +1,36 @@
+# Explicacion de conceptos para un niño de 12 años
+
+## Variables
+Es una forma de almacenar algo (valor, informacion, comandos, etc) dentro de un nombre asignado el cual podemos llamar para reproducir luego. Es 
+como si fuera un contenedor de mucha informacion que ayuda a que, en vez de escribir siempre un texto largo, usamos el nombre asignado para traer 
+toda esa informacion que se almaceno dentro. Se puee pensar como una especie de fichero que tiene su nombre corto, pero ese fichero contiene un m 
+onton de informacion util. Cuando necesitamos utilizar esa informacion, solamente llamamos al fiche que contiene todo dentro.
+
+## Strings
+Son un bloque o agrupacion de texto que se pone entre comillas para que el interprete entienda que nos referimos justamente a un texto. Por ejemplo 
+que si quisieramos poner un refran, `al pan pan, y al vino vino` para que se pueda ver en la consola, deberiamos ponerlo entre comillas para que se 
+pueda mostrar y tratar como un String. Para ayudar a entender este concepto y el de variables, ambos se complementan ya que justamente podemos darle 
+a la variable un nombre corto para que "guarde dentro" el refran que se pone como String. Por ejemplo, a la variable le damos el nombre de "refran" 
+y dentro de esta almacenamos el String `al pan pan, y al vino vino` entonces cada vez que necesitemos referirno a ella, solamente debemos llamar a 
+"refran" sin tener que escribir el contenido de ese refran //ideal para flojos ;)
+
+## Funciones (argumentos, `return`)
+Así como las variables son un contenedor de informacion que nosotros ponemos dentro, las funciones son un contenedor de variables y comandos. La 
+gran utilidad de esto es que en conjuncion con todos estos componentes: variables, strings (u otros tipos de datos basicos) y comandos vamos a poder 
+crear un bloque de texto que se ejecuta a traves del nombre que le demos a la funcion. Si esto fuera un libro, podriamos decir que la funcion es el 
+nombre del libro y que dentro posee todo el desarrollo de la obra en donde la sumatoria de verbos, sustantivos y adjetivos forman el texto. Al 
+utilizar argumentos estamos definiendo los valores que va a utilizar esa funcion para trabaajar y con los cuales obtenderemos un resultado en base a 
+dicho analisis.� En el caso de `return`es un comando que al utilizarlo le decimos al interprete que frene la lectura de codigo que escribimos y la 
+ejecucion de la funcion en la que aparece esa palabra para que nos "retorne" un resultado, o sea, que frene todos lo que esta haciendo y me brinde 
+un resultado de lo que ha procesado.
+
+## Declaraciones `if`
+La mejor manera de comprender el IF se me ocurre pensar en un semanforo cuando vamos caminando por la calle: para cruzar la calle tenemos que 
+esperar sa que el semaforo muestre el verde peatonal, sino muestra el verde peatonal tenemos que quedarnos parados sin avanzar. Esto seria como IF 
+el semaforo esta verde: avanzar; ELSE quedarse parado. O sea, si tales condiciones se reunen se ejecuta estas lineas de codigo, sino se cumplen, 
+entonces se ejecutan estas otras.
+
+## Valores booleanos (`true`, `false`)
+Mis preferidos porque no me gustan los grises. Son como los sinonimos y antonimos que estudiamos en la primaria, porque hay siempre 2 posibilidades, 
+es negro o blanco; es verdad o es mentira; es arriba o abajo; no existen las mediastintas, ya que si algo es cierto o falso, nos ayuda a determinar 
+por cual camino continuar en funcion de dicho resultado.
