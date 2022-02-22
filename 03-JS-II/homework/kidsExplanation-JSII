@@ -1,0 +1,18 @@
+*EXPLICACION PARA UN NIÑO DE 12 AÑOS
+
+
+**BUCLES FOR
+Se utiliza para analizar de manera repetida un bloque de codigo lo cual simplifica 
+notoriamente la cantidad de veces que se debe escribir el mismo codigo. Haciendo 
+una analogia, si vamos caminando por la calle para llegar al supermercado que queda a 6 
+cuadras, en vez de decir "camina 1 cuadra" + "camina 1 cuadra" + "camina 1 cuadra" + "camina 
+1 cuadra" + "camina 1 cuadra" + "camina 1 cuadra", podemos decir "durante 6 cuardas, camina" 
+De esa manera algo que se volvia tedioso para escribir se vuelve algo simple al ser algo 
+reiterativo que queremos que se repita por una N cantidad de veces.
+
+
+**OPERADORES LOGICOS || && ! 
+Los operadores logicos son ideales cuando antes de dar una respuesta afirmativa o negativa 
+(booleana) necesitamos comparar 2 o mas datos entre si; y que en funcion de ese analisis, 
+podamos determinar si algo es cierto o falso o si cumple (o no) el criterio que estamos
+buscando.
