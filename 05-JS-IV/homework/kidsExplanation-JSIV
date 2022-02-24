@@ -1,0 +1,39 @@
+#EXPLICACION PARA NIÑOS
+
+
+##OBJETOS
+Al igual que los arreglos, los objetos son un contenedor de datos.
+Pero si los arreglos contienen informacion variada de cualquier tipo;
+los obejetos tienen cantidad de informacion sobre una sola cosa.
+Si recordamos la analogia de la bolsa de compras del supermercado para los arrays,
+entonces podemos hacer una analogia de una agenda de contactos para los objetos.
+En donde la agenda cotiene los datos de contacto, direccion, etc. de cada persona
+que tengamos en la agenda.
+
+
+##PROPIEDADES
+Las propiedades son el contenido del objeto, o diciendolo de otra manera,
+el objeto esta compuesto por una cantidad N de propiedades.
+Cada propiedad tiene un nombre y un valor.
+
+
+##METODOS
+De la misma manera que las propiedades de los objetos pueden tener un valor que sea
+string, booleano, numeros, etc. Tambien puede tener un valor que sea una funcion.
+Al utilizar una funcion dentro de un objeto, se lo llama METODO.
+
+
+##BUCLE FOR...IN
+De la misma manera que teniamos un bucle FOR para utilizar con los arreglos,
+existe un tipo de bucle que se utiliza para recorrer los objetos.
+Esto se debe a que el contenido de los objetos no esta numerado con indices.
+El bucle for for de los arrays, recorre indice por indice mirando que dato hay en cada uno.
+El bucle for...in recorre propiedad por propiedad del objeto, analizando cada
+valor y cada clave.
+
+
+##NOTACION DE PUNTOS vs CORCHETES
+Para proder acceder a los valores del objeto o tambien para asignar nuevos valores,
+y poder trabajar con el contenido del objeto, se puede utilizar el nombre del objeto
+sumandole un punto y el nombre del valor: objeto.valor
+o tambien se puede utilizar corchetes: objeto['valor'].
