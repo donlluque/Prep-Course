@@ -1,0 +1,14 @@
+# EXPLICACION PARA NIÑOS DE 12 AÑOS
+
+
+## PROTOTYPE
+Es el contenedor de una cantidad N de metodos que nos permite reutilizar para que no estemos
+repitiendo el mismo codigo de los metodos una y otra vez.
+Cada clase tiene su propio prototype al que podemos llamar para utilizar los metodos que
+contienen; y si los metodos que tiene prorotype no son suficientes, podemos crear nuevos
+metodos que quedaran guardados en el prototype para veolver a utilizarlos.
+
+
+## CONSTRUCTORS
+Con el constructor accedemos a la plantilla que creamos al momento de crear un objeto de clase
+para poder utilizar los metodos que contiene el prototype de esa clase que creamos.
