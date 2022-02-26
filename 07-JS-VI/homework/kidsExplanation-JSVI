@@ -1,0 +1,8 @@
+# EXPLIACION PARA NIÑOS DE 12 AÑOS
+
+
+## CALLBACKS
+Callback es una funcion que se va a ejecutar despues de que lo haga otra funcion.
+Esto ocurre cuando una funcion no solamente es funcion, sino que tambien es
+el argumento de otra funcion.
+O sea, es una funcion dentro de otra funcion que se puede llamar en cualquier momento.
